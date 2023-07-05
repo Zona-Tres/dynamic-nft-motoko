@@ -1,0 +1,9 @@
+{
+  "canisters": {
+    "dynamic-nft-motoko": {
+      "main": "src/Main.mo"
+    }
+  },
+  "dfx": "0.14.0",
+  "version": 1
+}
