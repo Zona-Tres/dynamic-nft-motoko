@@ -9,7 +9,7 @@ This particular example only augments a counter found inside the key_val_data ve
  ### Step 1: Clone the repo:
 
 ```
-git clone https://github.com/zinhunter/dynamic-nft-motoko.git
+git clone https://github.com/Zona-Tres/dynamic-nft-motoko.git
 ```
 
  ### Step 2: Run a local instance of the Internet Computer:
